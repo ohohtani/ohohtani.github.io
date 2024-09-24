@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Ohohtani
-logo: ohtani.png # You can add own logo.
+logo: /images/ohtani.png # You can add own logo.
 description: Ohohtani is setting an unprecedented record.
 
 
